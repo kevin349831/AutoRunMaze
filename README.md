@@ -1,3 +1,3 @@
 # AutoRunMaze
 
-透過迷宮txt檔產生迷宮後可自動走完迷宮
+Through the MazeMap.txt file after the Maze can automatically finish the maze.
